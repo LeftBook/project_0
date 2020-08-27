@@ -4,28 +4,52 @@ swift : begin
 
 Reference : https://docs.swift.org/swift-book/
 
+
 project_0_0_aSwiftTour
+
 project_0_1_sampleValue
+
 project_0_2_controlFlow
+
 project_0_3_functionsAndClosures
+
 project_0_4_objectsAndClasses
+
 project_0_5_enumerationsAndStructures
+
 project_0_6_protocolsAndExtensions
+
 project_0_7_errorHandling
+
 project_0_8_generics
 
+
 project_0_9_theBasics
+
 project_0_10_ConstantsAndVariables
+
 project_0_11_Comments
+
 project_0_12_Semicolons
+
 project_0_13_Integers
+
 project_0_14_FloatingPointNumbers
+
 project_0_15_TypeSafetyAndTypeInference
+
 project_0_16_NumericLiterals
+
 project_0_17_NumericTypeConversion
+
 project_0_18_TypeAliases
+
 project_0_19_Booleans
+
 project_0_20_Tuples
+
 project_0_21_Optionals
+
 project_0_22_ErrorHandling
+
 project_0_23_AssertionsAndPreconditions
